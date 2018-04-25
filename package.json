@@ -1,5 +1,6 @@
 {
   "name": "nomore-test-l",
+  "version": "0.0.1",
   "dependencies": {
     "@angular/common": "4.4.6",
     "@angular/compiler": "4.4.6",
